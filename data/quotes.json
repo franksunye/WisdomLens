@@ -1,0 +1,36 @@
+[
+    {
+      "celebrity": "Albert Einstein",
+      "quotes": [
+        {
+          "text": "Imagination is more important than knowledge.",
+          "imageName": "einstein1.jpg",
+          "fontSize": 24,
+          "fontStyle": "Arial",
+          "textColor": "white",
+          "position": {
+            "x": 100,
+            "y": 100
+          },
+          "width": 800,
+          "height": 600
+        },
+        {
+          "text": "Life is like riding a bicycle. To keep your balance, you must keep moving.",
+          "imageName": "einstein2.jpg",
+          "fontSize": 20,
+          "fontStyle": "Arial",
+          "textColor": "white",
+          "position": {
+            "x": 50,
+            "y": 50
+          },
+          "width": 800,
+          "height": 600
+        }
+      ],
+      "lifespan": "1879-1955",
+      "nationality": "German-born theoretical physicist"
+    }
+  ]
+  
